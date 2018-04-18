@@ -1,0 +1,19 @@
+.layout__col1{
+    background-color: #34424e;
+}
+
+
+.layout__col1__nav__link{
+    color: #fff;
+    font-size: 16px;
+    display: block;
+    padding: 15px 20px;
+    border-bottom: 1px solid #657483;
+}
+.layout__col1__nav__link.active,
+.layout__col1__nav__link:hover
+{
+    background-color: #009ee8;
+}
+
+
